@@ -1,0 +1,2 @@
+git int create a git 
+git add file name add a specific file
